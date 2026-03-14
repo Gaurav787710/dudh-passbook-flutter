@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "607407978475",
+    "project_id": "dudh-passbook",
+    "storage_bucket": "dudh-passbook.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607407978475:android:af1e22fa6837e26aa98bae",
+        "android_client_info": {
+          "package_name": "com.dairymaster.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607407978475-al8heo2ih1vc40huk5u733c3u4s25fpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dairymaster.pro",
+            "certificate_hash": "ecb8f664069c14c6989fe1252727118723f3d49c"
+          }
+        },
+        {
+          "client_id": "607407978475-ul00i48v93d8dqcjsovbbvsrpo2v83ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxAy2KvJQOa03dZe_cM72F95Kl-ldmeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607407978475-ul00i48v93d8dqcjsovbbvsrpo2v83ks.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "607407978475-88lpicqhv9n17g7gjq6bclnm3ghrnjn4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fully transparent 1×1 drawable — used as Android 12+ splash icon
+     so the system splash shows ONLY background color (no circular mask).
+     Flutter SplashScreen renders the full rectangular logo immediately after. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#00000000" />
+    <size
+        android:width="1dp"
+        android:height="1dp" />
+</shape>
